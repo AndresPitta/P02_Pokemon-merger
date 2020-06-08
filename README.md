@@ -17,7 +17,7 @@ If you want to learn more (and see where the image was taken from), please go to
 
 Well, for those of you who don't know what a Pokemon is here is sample of the images I used
 
-![Pokemon_sample](imgs/support/pokemon_sample.PNG)
+![Pokemon_sample](support/pokemon_sample.PNG)
 
 Please, play a Pokemon game. Also, this data contains almost 900 Pokemon from the first 8 generations and it was scrapped from [pokemon.com](https://www.pokemon.com/us/pokedex/). I did not upload the images to the repo. 
 
@@ -30,25 +30,25 @@ Additionally, Neural Networks are a complex net of matrix multiplications and ac
 
 <b style="font-size:110%;text-align:center">First Epoch</b>
 
-![](imgs/support/epoch_1.png)
+![](support/epoch_1.png)
 
 Nothing here, this is a good start haha.
 
 <b style="font-size:110%;text-align:center">250th Epoch</b>
 
-![](imgs/support/epoch_250.png)
+![](support/epoch_250.png)
 
 Here it is starting to create shapes.
 
 <b style="font-size:110%;text-align:center">500th Epoch</b>
 
-![](imgs/support/epoch_500.png)
+![](support/epoch_500.png)
 
 By epoch 500, colours are being added to the Pokemon (thought it is only orange and blue)
 
 <b style="font-size:110%;text-align:center">700th Epoch</b>
 
-![](../images/results.png)
+![](support/results.png)
 
 The one on the right looks like Butterfree but not as clear.
 
